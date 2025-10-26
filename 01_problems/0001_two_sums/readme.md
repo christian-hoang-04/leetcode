@@ -7,4 +7,5 @@ Reading flow
 5. 02_solutions/03_solution_3.py
 6. 01_description/03_hint_2.md 
 
+`Note:` Make sure you read the hint thinking flow carefully, you may learn a lot of them xD
 `Status:` Thinking about the solution of the second hint. 
